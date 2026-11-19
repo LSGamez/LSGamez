@@ -22,5 +22,5 @@ Cofundador e programador no estúdio indie **Macchigato** e graduando em **Jogos
 ---
 
 ### Contato
-* **Itch.io:** https://luan-santana.itch.io/
+* **Itch.io:** [https://luan-santana.itch.io/]
 * **Email:** aluan014@gmail.com
