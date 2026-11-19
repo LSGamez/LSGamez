@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luan Santana de Almeida
-**Game Programmer** com 2 anos de experiência desenvolvendo sistemas de gameplay, interfaces e mecânicas interativas. 
-Cofundador e programador no estúdio indie **Macchigato** e graduando em **Jogos Digitais (IFBA)**.
+**Game Programmer** com 2 anos de experiência desenvolvendo sistemas de gameplay, interfaces e mecânicas interativas.   
+**Cofundador** e programador no estúdio indie **Macchigato** e graduando em **Jogos Digitais (IFBA)**.
 
 ---
 
